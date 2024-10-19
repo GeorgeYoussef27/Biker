@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49069215161",
+    "project_id": "bikestore-735a3",
+    "storage_bucket": "bikestore-735a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49069215161:android:90075d9abd8ed74a28ba68",
+        "android_client_info": {
+          "package_name": "com.example.scr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmc1EGZxeCP9aGTqEnIgDP3igp2rnV4R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
