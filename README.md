@@ -1,4 +1,7 @@
-#BikeX - High-End Bike Application
+#BikeX 
+
+
+- High-End Bike Application
 Overview
 BikeX is a dedicated application for high-end motorcycle enthusiasts, designed to provide users with an exceptional experience for browsing and exploring various bikes and related safety gear. The app offers a wide selection of bikes and safety accessories to cater to the needs of all users.
 
